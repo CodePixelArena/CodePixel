@@ -95,3 +95,17 @@ Each pixel on the canvas is associated with a coding challenge.
 * Team-based collaboration
 * Enhanced analytics and visualization
 * Improved sandboxing and security
+
+
+
+# 📌 Repository Scope
+
+This repository contains the **frontend implementation** of the CodePixel Arena project.
+
+It is responsible for:
+- Rendering the interactive pixel canvas
+- Providing the in-browser code editor
+- Handling user interactions and UI/UX
+- Communicating with the backend APIs and real-time services
+
+The backend system, including APIs, database logic, and code execution, is implemented in a separate repository.
